@@ -1,0 +1,4 @@
+GET http://localhost:5000/user
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjEsIm5hbWEiOiJBeml6IEZhdGtodSBSb2htYW4iLCJlbWFpbCI6ImF6aXpAZ21haWwuY29tIiwiaWF0IjoxNjk5MjMwMTQxLCJleHAiOjE2OTk0MDI5NDF9.y6CZotJKFsnl1Z87jh8jcgckDue-5a5WvCMhCcXoldc
+###
+GET http://localhost:5000/token
